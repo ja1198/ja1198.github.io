@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Jallerton",
+    "description": "",
+    "home_page_url": "https://ja1198.github.io/ja1198.github.io",
+    "feed_url": "https://ja1198.github.io/ja1198.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "James"
+    },
+    "items": [
+    ]
+}
